@@ -18,7 +18,7 @@ The api key is read from a .env file. If you do not have one, create it. The for
 ``` OPENAI_API_KEY=INSERT_API_KEY_HERE ```
 
 ## Instructions
-Place all images you want a description for in the /Pictures folder
+Place all images you want a description for in the /pictures folder
 
 Run the script
 
