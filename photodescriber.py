@@ -9,7 +9,6 @@ load_dotenv()
 
 # OpenAI API Key
 api_key = os.getenv("OPENAI_API_KEY")
-print(api_key)
 
 # Function to encode the image
 def encode_image(image_path):
