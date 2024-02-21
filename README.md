@@ -16,3 +16,15 @@ You will need an OpenAI API key to run this script. This can be obtained from yo
 The api key is read from a .env file. If you do not have one, create it. The format is as follows:
 
 ``` OPENAI_API_KEY=INSERT_API_KEY_HERE ```
+
+## Instructions
+Place all images you want a description for in the /Pictures folder
+
+Run the script
+
+```python3 photodescriber.py
+
+This might take a moment or two to run. When complete, you will have a new file, image_descriptions.json, which will contain the descriptions
+
+## Warning
+Running image analysis can be costly! Be sure to check that you have sufficient funds to run this script. You bear all the responsibilities for the costs you incur
