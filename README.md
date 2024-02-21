@@ -12,3 +12,7 @@ This will ensure that the requests library is installed in your environment, all
 
 ## API Key
 You will need an OpenAI API key to run this script. This can be obtained from your OpenAI account.
+
+The api key is read from a .env file. If you do not have one, create it. The format is as follows:
+
+``` OPENAI_API_KEY=INSERT_API_KEY_HERE ```
