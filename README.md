@@ -22,7 +22,7 @@ Place all images you want a description for in the /Pictures folder
 
 Run the script
 
-```python3 photodescriber.py
+```python3 photodescriber.py```
 
 This might take a moment or two to run. When complete, you will have a new file, image_descriptions.json, which will contain the descriptions
 
